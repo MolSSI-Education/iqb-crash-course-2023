@@ -17,5 +17,6 @@ dependencies:
   - ipywidgets<8.0
   - bioconda::mafft
   - nodejs
+  - jupyterlab
   - pip:
     - icn3dpy
